@@ -1,8 +1,7 @@
-# DeliveTrack
+# DeliveryTrack 📈
+Este é um sistema de software funcional rastreador de entregas para delivery, que permite que clientes acompanhem o status do pedido e entregadores atualizem o progresso da entrega.
 
-Sistema de rastreamento de entregas que permite aos usuários acompanhar o status de seus pedidos em tempo real e aos entregadores atualizarem seu progresso.
-
-## Tecnologias
+# Tecnologias 💻
 - Front-end: Next.js (React)
 - Back-end: Node.js + Fastify
 - Banco de Dados: PostgreSQL + Prisma
@@ -10,8 +9,11 @@ Sistema de rastreamento de entregas que permite aos usuários acompanhar o statu
 - Mensageria: Kafka ou RabbitMQ
 - Containerização: Docker + Docker Compose
 
-## Estrutura Inicial
+# Estrutura Inicial 📜
 - /frontend: Aplicação Next.js
 - /backend: API com Fastify
 - /infra: Docker, banco de dados, configurações
 - /docs: Documentação
+
+# Rodando localmente 📌
+(Em breve)
