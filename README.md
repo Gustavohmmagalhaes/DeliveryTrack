@@ -114,6 +114,7 @@ lib/
 ### 🔧 Funcionalidades
 
 #### ✅ Autenticação
+
 - Token JWT validado no cabeçalho
 
 #### 📦 API de Entregas
@@ -122,3 +123,7 @@ lib/
 - **GET `/deliveries/:id`**: Detalhes da entrega
 - **GET `/deliveries/:id/locations`**: Coordenadas da entrega
 - **POST `/deliveries/:id/location`**: Atualiza localização (via app entregador)
+
+## 💻 Projeto
+
+🔗 [Acesse a aplicação aqui](http://deliverytrack.vercel.app))
