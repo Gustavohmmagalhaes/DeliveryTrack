@@ -124,6 +124,3 @@ lib/
 - **GET `/deliveries/:id/locations`**: Coordenadas da entrega
 - **POST `/deliveries/:id/location`**: Atualiza localização (via app entregador)
 
-## 💻 Projeto
-
-🔗 [Acesse a aplicação aqui](http://deliverytrack.vercel.app))
